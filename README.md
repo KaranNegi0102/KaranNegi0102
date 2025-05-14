@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Negi</h1>
-# 💫 About Me:
+
  🌱 I’m currently learning Next.js, TypeScript, and advanced Redux Toolkit patterns to create robust, type-safe apps.<br><br>📫 How to reach me karannegi0102@gmail.com<br><br>⚡ Quote Hardest choices requires the strongest will
 
 
