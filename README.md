@@ -2,7 +2,7 @@
 
  # 💫 About Me:
  
- 🌱 I’m currently learning Next.js, TypeScript, and advanced Redux Toolkit patterns to create robust, type-safe apps.<br><br>📫 How to reach me karannegi0102@gmail.com<br><br>⚡ My Fav Quote - Hardest choices requires the strongest will
+ 🌱 I’m currently learning Next.js, TypeScript, and advanced Redux Toolkit patterns.<br><br>📫 How to reach me karannegi0102@gmail.com<br><br>⚡ My Fav Quote - Hardest choices requires the strongest will
 
 
 ## 🌐 Socials:
