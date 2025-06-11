@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Karan Negi</h1> 
- 🌱 I’m currently learning Next.js, TypeScript, and advanced Redux Toolkit patterns.<br><br>📫 How to reach me karannegi0102@gmail.com<br><br>⚡ My Fav Quote - Making things easy is the hardest
+ 🌱 I am a full-stack web developer currently focusing on Next.js, Redux, and Python for backend development, along with AI integration to enhance my skills in building modern, efficient web applications. I am deeply committed to continuous learning and growth, constantly exploring new frameworks, tools, and technologies that challenge me to think differently and develop smarter, more scalable solutions. My goal is to evolve as a developer by staying adaptable, curious, and driven by the desire to solve real-world problems through technology..<br><br>📫 How to reach me karannegi0102@gmail.com<br><br>⚡ My Fav Quote - Making things easy is the hardest
  
 
 
