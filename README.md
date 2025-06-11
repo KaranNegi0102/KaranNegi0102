@@ -1,7 +1,4 @@
-<h1 align="center">Hi, I'm Karan Negi</h1>
-
- # 💫 About Me:
- 
+<h1 align="center">Hi, I'm Karan Negi</h1> 
  🌱 I’m currently learning Next.js, TypeScript, and advanced Redux Toolkit patterns.<br><br>📫 How to reach me karannegi0102@gmail.com<br><br>⚡ My Fav Quote - Making things easy is the hardest
  
 
